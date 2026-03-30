@@ -1,0 +1,5 @@
+{
+  "name": "Spring Boot Bash Automation",
+  "description": "Automatisation du cycle de vie d'une application Spring Boot via scripts Bash pour l'apprentissage DevOps.",
+  "requestFramePermissions": []
+}
